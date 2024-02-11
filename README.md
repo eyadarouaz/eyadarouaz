@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=500&color=CF9FFF&center=true&repeat=false&random=false&width=435&lines=Hey%2C+there+%F0%9F%91%8B!;It's+Eya+Darouaz.;Welcome+to+my+Github.)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=CA77FF&center=true&repeat=false&random=false&width=435&lines=Hey%2C+there+%F0%9F%91%8B!;It's+Eya+Darouaz.;Welcome+to+my+Github.)](https://git.io/typing-svg" width="70%">
+  
+</div>
 <!--
 **eyadarouaz/eyadarouaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
