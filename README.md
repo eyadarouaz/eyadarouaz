@@ -1,21 +1,4 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik">
-<style>
-#intro{
-font-size: 40px;
-font-family: 'Rubik';
-color: #CF9FFF;
-text-align: center;
-}
-</style>
-<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
-<span id="intro"></span>
-<script>
-var typed = new Typed('#intro', {
-strings: ['Hey, there!','It&apos;s Eya Darouaz.', 'Welcome to my Github.'],
-typeSpeed: 80,
-showCursor: false,
-});
-</script>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=500&color=730CF7&center=true&repeat=false&random=false&width=435&lines=Hey%2C+there+%F0%9F%91%8B!;It's+Eya+Darouaz.;Welcome+to+my+Github." alt="Typing SVG" /></a>
 <!--
 **eyadarouaz/eyadarouaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
