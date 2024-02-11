@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=CA77FF&center=true&repeat=false&random=false&width=435&lines=Hey%2C+there+%F0%9F%91%8B!;Welcome+to+my+Github." align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=E617F3&center=true&repeat=false&random=false&width=435&lines=Hey+there+!;Welcome+to+my+Github." align="center">
 </div>
 <h3 align="center">My name is Eya Darouaz. I'm an enthusiastic Software Engineering 💻 student from Tunisia.<br> You can find me on <a href="https://www.linkedin.com/in/eya-darouaz/">Linkedin</a>🔗.</h3>
 
