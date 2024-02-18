@@ -3,10 +3,6 @@
 </div>
 <h3 align="center">My name is Eya Darouaz. I'm an enthusiastic Software Engineering 💻 student from Tunisia.<br> You can find me on <a href="https://www.linkedin.com/in/eya-darouaz/">Linkedin</a>🔗.</h3>
 
-- 🔭 I’m currently working on a desktop application using electron.js and react.js
-- 🌱 I’m currently learning C# and getting started with .NET framework
-- ⚡ Fun fact: As a kid, I was dead set on becoming a vet. Why? The idea of floating among the stars and discovering unknown galaxies was intoxicating. Fast forward, I’m not in space, but I still chase the thrill of exploring uncharted territories in my projects.
-
 <ul>
     <li>🔭 I’m currently working on a desktop application using <strong>electron.js and react.js</strong></li>
 		<li>🌱 I’m currently learning <strong>C#, .NET, GenAI</strong></li>
