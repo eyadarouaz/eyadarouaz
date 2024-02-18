@@ -4,9 +4,9 @@
 <h3 align="center">My name is Eya Darouaz. I'm an enthusiastic Software Engineering 💻 student from Tunisia.<br> You can find me on <a href="https://www.linkedin.com/in/eya-darouaz/">Linkedin</a>🔗.</h3>
 
 <ul>
-	<li>🔭 I’m currently working on a desktop application using <strong>electron.js and react.js</strong></li>
+	<li>🔭 I’m currently working on a desktop application using <strong>electron.js</strong> and <strong>react.js</strong></li>
 	<li>🌱 I’m currently learning <strong>C#, .NET, GenAI</strong></li>
-	<li>📫 How to reach me <strong>eyaadarouez@gmail.com</strong></li>
+	<li>📫 How to reach me: <strong>eyaadarouez@gmail.com</strong></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
